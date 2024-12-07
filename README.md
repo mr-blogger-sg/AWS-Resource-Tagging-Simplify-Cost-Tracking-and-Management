@@ -86,11 +86,3 @@ def lambda_handler(event, context):
 
 ### Final Thoughts
 Tagging AWS resources not only simplifies management but also improves cost optimization and operational efficiency. By automating tagging with Lambda, you ensure consistent and reliable tagging practices across your organization.
-
-If you encounter any issues, feel free to comment or reach out. I’ll be happy to assist!
-
----
-
-# Hashtags
-#python #lambda #ec2 #aws #iam
-
